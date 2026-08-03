@@ -1,0 +1,6 @@
+[submodule "technobank-api"]
+	path = technobank-api
+	url = git@github.com:Adam3018/technobank-api.git
+[submodule "technobank-ui"]
+	path = technobank-ui
+	url = git@github.com:Adam3018/technobank-ui.git
