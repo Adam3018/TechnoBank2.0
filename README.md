@@ -26,7 +26,8 @@ Run:
 ``` bash
 git submodule update --init --recursive
 ```
-Pulling all submodules
+
+Pulling all submodules:
 ```bash
 git submodule foreach git pull
 ```
