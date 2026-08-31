@@ -1,0 +1,18 @@
+first_name,last_name,email,company,position,clearance_level,phone,notes,id
+Victoria,Sinclair,v.sinclair@apexcapital.com,Apex Capital,Risk Analyst,visitor,63881902,,1
+Julian,Rousseau,j.rousseau@apexcapital.com,Apex Capital,Risk Analyst,visitor,63881903,compliance review lead,2
+Elena,Kovács,e.kovacs@apexcapital.com,Apex Capital,Risk Analyst,visitor,63881904,,3
+Laura,Monroe,l.monroe@crestviewbank.com,Crestview Bank,Teller Supervisor,staff,66019283,,4
+Gavin,Brooks,g.brooks@crestviewbank.com,Crestview Bank,Teller Supervisor,staff,66019284,evening shift lead,5
+Robert,Thornton,r.thornton@firstnational.com,First National Bank,Compliance Officer,staff,64710293,AML certified,6
+Samantha,Hayes,s.hayes@firstnational.com,First National Bank,Compliance Officer,staff,64710294,BSA specialist,7
+Arthur,Pendleton,a.pendleton@heritagebank.com,Heritage Bank,Senior Loan Officer,vip,61029384,handles commercial real estate,8
+David,Miller,d.miller@heritagebank.com,Heritage Bank,Senior Loan Officer,vip,61029385,handles residential mortgages,9
+Rebecca,Vance,r.vance@heritagebank.com,Heritage Bank,Senior Loan Officer,vip,61029386,underwriting focus,10
+Jovan,Djakovic,jovan.djakovic@mqsoft.rs,MQSoft,Founder & CEO,presenter,64123456,,11
+Nikola,Petrovic,n.petrovic@mqsoft.rs,MQSoft,Software Developer,staff,64123457,,12
+Michael,Chang,m.chang@meridiana.com,Meridian Financial,Wealth Manager,vip,65190238,HNW accounts,13
+Sarah,Jenkins,s.jenkins@meridiana.com,Meridian Financial,Wealth Manager,vip,65190239,estate planning focus,14
+Alexander,Wright,a.wright@meridiana.com,Meridian Financial,Wealth Manager,vip,65190240,corporate portfolios,15
+Catherine,Sterling,c.sterling@vanguardtrust.com,Vanguard Trust,Branch Manager,admin,62981034,regional oversight,16
+James,Sterling,j.sterling@vanguardtrust.com,Vanguard Trust,Branch Manager,admin,62981035,downtown branch,17
